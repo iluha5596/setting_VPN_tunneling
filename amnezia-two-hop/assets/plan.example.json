@@ -1,0 +1,8 @@
+{
+  "mode": "repair",
+  "allow_reboot": false,
+  "services": ["chatgpt", "claude", "gemini", "youtube", "instagram", "telegram"],
+  "clients": ["ios", "android", "windows"],
+  "amnezia_container": "auto",
+  "ipv6_policy": "ipv4-only"
+}
