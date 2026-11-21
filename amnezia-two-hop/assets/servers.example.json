@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "servers": {
+    "ru": {
+      "host": "",
+      "port": 22,
+      "username": "root",
+      "auth": {"type": "password", "password": ""},
+      "host_key_sha256": ""
+    },
+    "exit": {
+      "host": "",
+      "port": 22,
+      "username": "root",
+      "auth": {"type": "key", "private_key_path": "", "passphrase": ""},
+      "host_key_sha256": ""
+    }
+  }
+}
